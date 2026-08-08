@@ -1,27 +1,43 @@
-# Guía de Trabajo 1 - Campo de Pendientes
+# GUÍA DE TRABAJO 1 - CAMPO DE PENDIENTES
 
-## Escuela Colombiana de Ingeniería Julio Garavito
+## Integrantes
 
-Este repositorio contiene el desarrollo de la Guía de Trabajo 1
-de Ecuaciones Diferenciales.
+- Nombre 1: ______________________________
+- Nombre 2: ______________________________
+
+
+## Asignatura
+
+Ecuaciones Diferenciales
+
+## Docente
+
+RICARDO JUNIORS CANO CARO
+
+## Universidad
+
+Escuela Colombiana de Ingeniería Julio Garavito
+
+---
+
+## Descripción
+
+Este repositorio contiene el desarrollo de la Guía de Trabajo 1:
+Campo de Pendientes.
 
 ## Contenido
 
 ### Punto 1
-Campos de pendientes, familias de soluciones y soluciones
-particulares de ecuaciones diferenciales de primer orden.
+Campo de pendientes y soluciones de ecuaciones diferenciales.
 
 ### Punto 2
-Análisis de puntos críticos, diagramas de fase y estabilidad
-de ecuaciones diferenciales autónomas.
+Análisis de puntos críticos y diagramas de fase.
 
 ### Punto 3
-Modelo de población:
-P' = P(P - 1)(2 - P)
+Modelo de población.
 
 ### Punto 4
-Modelo de población:
-P' = 3P - 2P²
+Modelo de población.
 
 ## Librerías utilizadas
 
