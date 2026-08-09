@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-- Nombre 1: ______________________________
-- Nombre 2: ______________________________
+- Nombre 1: Maikol Andrés Gordillo Sabogal
+- Nombre 2: Andres Felipe Diaz Martin
 
 
 ## Asignatura
